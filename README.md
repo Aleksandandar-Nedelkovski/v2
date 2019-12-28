@@ -5,4 +5,4 @@
   <a href="https://github.com/aleksandandar-nedelkovski/v1" target="_blank">v1</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/aleksandandar-nedelkovski/v2/master/src/images/demo.png)
+![demo](https://github.com/Aleksandandar-Nedelkovski/v2/blob/master/src/images/demo.png)
